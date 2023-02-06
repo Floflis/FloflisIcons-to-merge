@@ -1,0 +1,1 @@
+rework /media/daniella/B/git/Floflis/Branding/Floflis/scalable/places/start-here-symbolic.svg, by removing hidden/transparent parts
